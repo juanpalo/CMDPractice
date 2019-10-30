@@ -1,0 +1,25 @@
+{
+  "name": "cmdpractice",
+  "version": "0.1.0",
+  "description": "Dyamic footer generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpalo/real-js-repository.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Juan Carlos Casas <juancasas1008@gmail.com> (https://www.npmjs.com/~twowolves)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpalo/real-js-repository/issues"
+  },
+  "homepage": "https://github.com/juanpalo/real-js-repository#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
